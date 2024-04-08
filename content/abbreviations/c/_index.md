@@ -1,7 +1,7 @@
 ---
 title: Abbreviations Starting With C
-description: Go through a list of all our medical abbreviations starting with C!
-summary: Go through a list of all our medical abbreviations starting with C!
+description: Go through all medical abbreviations starting with C!
+summary: Go through all medical abbreviations starting with C!
 
 layout: list
 searchHidden: true
