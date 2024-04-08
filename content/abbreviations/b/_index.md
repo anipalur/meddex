@@ -1,7 +1,7 @@
 ---
 title: Abbreviations Starting With B
-description: Go through a list of all our medical abbreviations starting with B!
-summary: Go through a list of all our medical abbreviations starting with B!
+description: Go through all medical abbreviations starting with B!
+summary: Go through all medical abbreviations starting with B!
 
 layout: list
 searchHidden: true
