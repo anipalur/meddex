@@ -1,7 +1,7 @@
 ---
 title: Abbreviations Starting With A
-description: Go through a list of all our medical abbreviations starting with A!
-summary: Go through a list of all our medical abbreviations starting with A!
+description: Go through all medical abbreviations starting with A!
+summary: Go through all medical abbreviations starting with A!
 
 layout: list
 searchHidden: true
