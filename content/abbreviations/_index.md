@@ -1,7 +1,7 @@
 ---
 title: All Abbreviations
-description: Go through a list of all our medical abbreviations by letter!
-summary: Go through a list of all our medical abbreviations by letter!
+description: Go through all medical abbreviations by letter!
+summary: Go through all medical abbreviations by letter!
 
 layout: list
 searchHidden: true
