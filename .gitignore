@@ -1,0 +1,7 @@
+# Dependency directory
+node_modules/
+
+# Hugo output
+public/
+resources/
+.hugo_build.lock
