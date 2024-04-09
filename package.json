@@ -1,0 +1,37 @@
+{
+  "name": "meddex",
+  "version": "1.0.0",
+  "description": "Source code for the MedDex website.",
+  "scripts": {
+    "test": "hugo server --buildDrafts --disableFastRender",
+    "build": "hugo --gc --minify",
+    "lint": "npx markdownlint --fix \"content/**/*.md\" \".github/*.md\" \"*.md\" && echo Successfully linted all Markdown files!",
+    "is-linted": "npx markdownlint \"content/**/*.md\" \".github/*.md\" \"*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipalur/meddex.git"
+  },
+  "keywords": [
+    "meddex",
+    "website",
+    "hugo",
+    "static-site",
+    "hugo-site",
+    "search"
+  ],
+  "author": {
+    "name": "anipalur",
+    "email": "ani@anipalur.com",
+    "url": "https://github.com/anipalur"
+  },
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/anipalur/meddex/issues"
+  },
+  "homepage": "https://github.com/anipalur/meddex#readme",
+  "devDependencies": {
+    "markdownlint": "^0.34.0",
+    "markdownlint-cli": "^0.39.0"
+  }
+}
