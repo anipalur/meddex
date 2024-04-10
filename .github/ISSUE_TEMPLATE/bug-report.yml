@@ -1,0 +1,80 @@
+---
+name: File a bug report
+description: Found a bug? Let us know here!
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        Firstly, thanks for taking the time to fill out this bug report!
+        Please ensure your report has not been raised before on the [Issues tab](https://github.com/anipalur/meddex/issues "Visit the Issues tab.").
+        Duplicate or unrelated issues will be closed.
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description
+      description: What is the bug? What steps did you take to produce the bug?
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected Behaviour
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: What browser were you using?
+      multiple: true
+      options:
+        - Google Chrome
+        - Safari
+        - Microsoft Edge
+        - Firefox
+        - Brave
+        - Other
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: browser-information
+    attributes:
+      label: Additional Browser Information
+      description: >-
+        What browser version were you using? Were you using the browser's mobile or desktop version?
+        What OS were you using?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Log Output
+      description: Add any relevant log output here.
+      value: None
+      render: PowerShell
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Relevant Screenshots
+      description: Add any relevant screenshots here.
+      value: None
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Add additional information not covered elsewhere here.
+      value: None
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: >-
+        By submitting this issue, you agree to abide by our
+        [Code of Conduct](https://github.com/anipalur/meddex/blob/main/CODE_OF_CONDUCT.md "View the Code of Conduct.").
+      options:
+        - label: I agree to abide by the Code of Conduct.
+          required: true
