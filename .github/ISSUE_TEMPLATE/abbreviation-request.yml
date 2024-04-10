@@ -1,0 +1,50 @@
+---
+name: Request a new abbreviation
+description: Know an abbreviation that has not been added? Let us know here!
+labels:
+  - new-abbreviation
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        Firstly, thanks for taking the time to request a new abbreviation!
+        Please ensure your abbreviation has not been already added to the MedDex website or requested
+        before on the [Issues tab](https://github.com/anipalur/meddex/issues "Visit the Issues tab.").
+        Duplicate or unrelated requests will be closed.
+  - type: input
+    id: abbreviation
+    attributes:
+      label: Abbreviation
+      description: What is the abbreviation?
+    validations:
+      required: true
+  - type: input
+    id: full-form
+    attributes:
+      label: Full Form
+      description: What is the full form of the abbreviation?
+    validations:
+      required: true
+  - type: textarea
+    id: aliases
+    attributes:
+      label: Aliases
+      description: List any other abbreviations that share the same full form.
+      value: None
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: What is the source of the abbreviation? Include a link to the source.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: >-
+        By submitting this issue, you agree to abide by our
+        [Code of Conduct](https://github.com/anipalur/meddex/blob/main/CODE_OF_CONDUCT.md "View the Code of Conduct.").
+      options:
+        - label: I agree to abide by the Code of Conduct.
+          required: true
