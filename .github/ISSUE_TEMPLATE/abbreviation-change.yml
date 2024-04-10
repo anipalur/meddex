@@ -1,0 +1,42 @@
+---
+name: Suggest changes to an abbreviation
+description: Could an abbreviation be improved? Let us know here!
+labels:
+  - abbreviation-change
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        Firstly, thanks for taking the time to suggest a change to an abbreviation!
+        Please ensure your suggested change has not been requested before on the [Issues tab](https://github.com/anipalur/meddex/issues "Visit the Issues tab.").
+        Duplicate or unrelated suggestions will be closed.
+  - type: input
+    id: abbreviation
+    attributes:
+      label: Abbreviation
+      description: What is the abbreviation? Include a link to the abbreviation on the MedDex website.
+    validations:
+      required: true
+  - type: textarea
+    id: change-description
+    attributes:
+      label: Suggested Changes
+      description: How could the abbreviation be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Add additional information not covered elsewhere here.
+      value: None
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: >-
+        By submitting this issue, you agree to abide by our
+        [Code of Conduct](https://github.com/anipalur/meddex/blob/main/CODE_OF_CONDUCT.md "View the Code of Conduct.").
+      options:
+        - label: I agree to abide by the Code of Conduct.
+          required: true
