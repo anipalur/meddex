@@ -1,0 +1,5 @@
+---
+title: N/A
+fullForm: not applicable
+source: https://openmd.com/dictionary/abbreviations/n
+---
