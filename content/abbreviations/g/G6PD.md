@@ -1,0 +1,5 @@
+---
+title: G6PD
+fullForm: glucose-6-phosphate dehydrogenase
+source: https://openmd.com/dictionary/abbreviations/g
+---
