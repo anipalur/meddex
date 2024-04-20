@@ -18,7 +18,7 @@ We may not be available to respond quickly due to time zone differences and othe
 <!--sse-->
 ## General Enquiries
 
-Please email [ani@anipalur.com] for general enquiries.<!--/sse-->
+Please email [ani@anipalur.com][email-link] for general enquiries.<!--/sse-->
 
 ## Bug Reports and Feature Requests
 
@@ -28,6 +28,8 @@ See [SUPPORT.md](https://github.com/anipalur/meddex/blob/main/.github/SUPPORT.md
 ## Others
 
 <!--sse-->
-Please email [ani@anipalur.com] for any other reason not mentioned above.<!--/sse-->
+Please email [ani@anipalur.com][email-link] for any other reason not mentioned above.<!--/sse-->
 
 If none of the contact methods above suit you, feel free to contact us through the [MedDex Instagram](https://www.instagram.com/meddex_medical_abbreviations "Visit our Instagram page!") page.
+
+[email-link]: ani@anipalur.com "Send us an email."
