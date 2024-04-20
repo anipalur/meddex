@@ -1,0 +1,32 @@
+---
+version: 2
+updates:
+  # Maintain dependencies for the PaperMod Git submodule.
+  - package-ecosystem: gitsubmodule
+    directory: /themes
+    schedule:
+      interval: monthly
+    reviewers:
+      - "anipalur"
+    assignees:
+      - "anipalur"
+
+  # Maintain dependencies for markdownlint.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    reviewers:
+      - "anipalur"
+    assignees:
+      - "anipalur"
+
+  # Maintain dependencies for GitHub Actions.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    reviewers:
+      - "anipalur"
+    assignees:
+      - "anipalur"

@@ -1,5 +1,5 @@
 ---
-title: abbreviation
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 fullForm: full form
 source: source
 aliases:

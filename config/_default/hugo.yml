@@ -1,0 +1,36 @@
+---
+# Website information
+author:
+  name: MedDex Contributors
+baseURL: https://meddex.pages.dev/
+title: MedDex
+defaultContentLanguage: en
+languageCode: en-GB
+timeZone: Asia/Kuala_Lumpur
+copyright: >-
+  The content on this website is not a substitute for professional medical advice, diagnosis or
+  treatment.
+
+# Website configuration
+theme: PaperMod
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+refLinksNotFoundURL: /404
+disableKinds:
+  - rss
+ignoreFiles:
+  - /abbreviations/template.md
+
+enableEmoji: true
+enableGitInfo: false
+enableRobotsTXT: true
+
+# Development configuration
+build:
+  noJSConfigInAssets: true
+newContentEditor: code
+watch: true

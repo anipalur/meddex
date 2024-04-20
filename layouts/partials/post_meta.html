@@ -1,0 +1,40 @@
+{{- $scratch := newScratch }}
+
+{{- if (.Param "ShowReadingTime") -}}
+  {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+  {{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}
+{{- end }}
+
+{{- $author := "" }}
+{{- if not (.Param "hideAuthor") }}
+  {{- with (partial "author.html" .) }}
+    {{- $author = . }}
+  {{- end }}
+{{- end }}
+
+{{- $date := "" }}
+{{- if not .Date.IsZero }}
+  {{- $date = .Date }}
+  {{- with .GitInfo }}
+    {{- $date = .AuthorDate }}
+  {{- end }}
+{{- end }}
+
+{{- if and $date $author }}
+  {{- $scratch.Add "meta" (slice (printf "Contributed by %s on&nbsp;<span title='%s'>%s</span>" ($author) ($date | time.Format "Monday, January 2 2006 15:04:05 (UTC-07)") ($date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- else }}
+  {{- if $author }}
+    {{- $scratch.Add "meta" (slice (printf "Contributed by %s on unknown date" ($author))) }}
+  {{- else }}
+    {{- if $date }}
+      {{- $scratch.Add "meta" (slice (printf "Contributed by unknown author on&nbsp;<span title='%s'>%s</span>" ($date | time.Format "Monday, January 2 2006 15:04:05 (UTC-07)") ($date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+  {{- delimit . "&nbsp;·&nbsp;" | safeHTML }}
+{{- end }}

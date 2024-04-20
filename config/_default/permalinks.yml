@@ -1,0 +1,5 @@
+---
+page:
+  pages: /:slugorfilename
+section:
+  pages: /pages

@@ -1,0 +1,30 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558 for documentation on the tasks.json format.
+  "version": "2.0.0",
+  "type": "shell",
+  "group": {
+    "isDefault": true
+  },
+  "presentation": {
+    "panel": "shared",
+    "clear": true
+  },
+
+  "tasks": [
+    {
+      "label": "Test Site",
+      "command": "hugo server --buildDrafts --disableFastRender",
+      "group": {
+        "kind": "test"
+      },
+      "isBackground": true
+    },
+    {
+      "label": "Build Site",
+      "command": "hugo --gc --minify",
+      "group": {
+        "kind": "build"
+      }
+    }
+  ]
+}

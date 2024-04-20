@@ -1,0 +1,24 @@
+---
+en:
+  languageName: English
+  languageCode: en-GB
+  languageDirection: ltr
+  taxonomies:
+    letter: letters
+  menu:
+    main:
+      - name: Home
+        url: /
+        weight: 1
+      - name: All Abbreviations
+        url: /abbreviations
+        weight: 2
+      - name: About
+        url: /about
+        weight: 3
+      - name: Contact
+        url: /contact
+        weight: 4
+      - name: Contribute
+        url: https://github.com/anipalur/meddex
+        weight: 5

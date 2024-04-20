@@ -1,0 +1,40 @@
+{
+  "extends": "markdownlint/style/all",
+  "ul-style": {
+    "style": "dash"
+  },
+  "no-trailing-spaces": {
+    "list_item_empty_lines": true,
+    "strict": true
+  },
+  "no-hard-tabs": {
+    "spaces_per_tab": 2
+  },
+  "line-length": false,
+  "ol-prefix": {
+    "style": "ordered"
+  },
+  "no-inline-html": false,
+  "hr-style": {
+    "style": "---"
+  },
+  "proper-names": {
+    "html_elements": false
+  },
+  "code-block-style": {
+    "style": "fenced"
+  },
+  "code-fence-style": {
+    "style": "backtick"
+  },
+  "emphasis-style": {
+    "style": "asterisk"
+  },
+  "strong-style": {
+    "style": "asterisk"
+  },
+  "link-image-style": {
+    "collapsed": false,
+    "url_inline": false
+  }
+}

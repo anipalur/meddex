@@ -1,0 +1,95 @@
+---
+# Website information
+title: MedDex
+description: A free, online dictionary of medical abbreviations!
+author: MedDex Contributors
+keywords:
+  - MedDex
+  - Medicine
+  - Medical
+  - Abbreviations
+  - Acronyms
+  - Shorthands
+  - Dictionary
+  - Search
+
+label:
+  text: MedDex
+  iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book-open"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>'
+  integer: 35
+
+mainSections:
+  - abbreviations
+  - pages
+
+# Website configuration
+env: production
+DateFormat: January 2, 2006
+languageAltTitle: English
+schema:
+  publisherType: Organization
+
+defaultTheme: auto
+disableThemeToggle: false
+disableScrollToTop: true
+disableSpecial1stPost: true
+disableAnchoredHeadings: true
+hideSummary: false
+hideFooter: false
+displayFullLangName: false
+ShowPageNums: true
+ShowAllPagesInArchive: true
+ShowFullTextinRSS: false
+ShowRssButtonInSectionTermList: false
+ShowShareButtons: false
+
+fuseOpts:
+  isCaseSensitive: false
+  includeScore: false
+  includeMatches: true
+  minMatchCharLength: 1
+  shouldSort: true
+  findAllMatches: false
+  keys:
+    - title
+    - fullForm
+    - aliases
+  useExtendedSearch: true
+
+assets:
+  disableHLJS: true
+  disableScrollBarStyle: true
+  favicon: /favicon.png
+  favicon16x16: /favicon.png
+  favicon32x32: /favicon.png
+  apple_touch_icon: /favicon.png
+  safari_pinned_tab: /favicon.png
+  disableFingerprinting: false
+  theme_color: '#F5F5F5'
+  msapplication_TileColor: '#F5F5F5'
+
+profileMode:
+  enabled: false
+
+# Abbreviation configuration
+editPost:
+  URL: https://github.com/anipalur/meddex/issues/new?
+  Text: Suggest Changes
+  appendFilePath: false
+ShowBreadCrumbs: true
+hideMeta: false
+ShowReadingTime: false
+ShowWordCount: false
+ShowPostNavLinks: false
+showtoc: false
+tocopen: false
+UseHugoToc: false
+ShowCodeCopyButtons: false
+comments: false
+
+cover:
+  linkFullImages: true
+  responsiveImages: true
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
