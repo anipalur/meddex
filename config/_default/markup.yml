@@ -1,0 +1,4 @@
+---
+goldmark:
+  renderer:
+    unsafe: true
