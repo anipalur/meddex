@@ -1,0 +1,7 @@
+---
+# WebP encoding parameter
+hint: picture
+
+exif:
+  disableDate: true
+  disableLatLong: true
