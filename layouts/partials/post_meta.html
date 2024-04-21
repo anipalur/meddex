@@ -16,10 +16,11 @@
 {{- end }}
 
 {{- $date := "" }}
-{{- if not .Date.IsZero }}
-  {{- $date = .Date }}
-  {{- with .GitInfo }}
-    {{- $date = .AuthorDate }}
+{{- with .GitInfo }}
+  {{- $date = .AuthorDate }}
+{{- else }}
+  {{- if not .Date.IsZero }}
+    {{- $date = .Date }}
   {{- end }}
 {{- end }}
 
