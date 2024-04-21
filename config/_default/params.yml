@@ -44,6 +44,7 @@ ShowRssButtonInSectionTermList: false
 ShowShareButtons: false
 
 fuseOpts:
+  limit: 25
   isCaseSensitive: false
   includeScore: false
   includeMatches: true
