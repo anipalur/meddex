@@ -11,10 +11,12 @@
     "spaces_per_tab": 2
   },
   "line-length": false,
+  "blanks-around-headings": false,
   "ol-prefix": {
     "style": "ordered"
   },
   "no-inline-html": false,
+  "no-bare-urls": false,
   "hr-style": {
     "style": "---"
   },
