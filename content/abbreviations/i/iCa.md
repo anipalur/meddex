@@ -1,5 +1,5 @@
 ---
 title: iCa
-definition: ionized calcium
+fullForm: ionized calcium
 source: https://openmd.com/dictionary/abbreviations/i
 ---

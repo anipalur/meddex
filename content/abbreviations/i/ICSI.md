@@ -1,5 +1,5 @@
 ---
 title: ICSI
-definition: intracytoplasmic sperm injection
+fullForm: intracytoplasmic sperm injection
 source: https://openmd.com/dictionary/abbreviations/i
 ---

@@ -1,5 +1,5 @@
 ---
 title: IA
-definition: intra-amniotic
+fullForm: intra-amniotic
 source: https://openmd.com/dictionary/abbreviations/i
 ---

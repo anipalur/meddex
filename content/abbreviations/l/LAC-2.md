@@ -1,5 +1,5 @@
 ---
 title: LAC
-definition: left antecubital
+fullForm: left antecubital
 source: https://openmd.com/dictionary/abbreviations/l
 ---

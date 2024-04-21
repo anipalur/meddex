@@ -1,5 +1,5 @@
 ---
 title: lab
-definition: laboratory
+fullForm: laboratory
 source: https://openmd.com/dictionary/abbreviations/l
 ---

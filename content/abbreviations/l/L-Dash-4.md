@@ -1,5 +1,5 @@
 ---
 title: L
-definition: lumbar
+fullForm: lumbar
 source: https://openmd.com/dictionary/abbreviations/l
 ---

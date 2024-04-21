@@ -1,5 +1,5 @@
 ---
 title: IBS
-definition: irritable bowel syndrome
+fullForm: irritable bowel syndrome
 source: https://openmd.com/dictionary/abbreviations/i
 ---

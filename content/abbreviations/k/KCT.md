@@ -1,5 +1,5 @@
 ---
 title: KCT
-definition: kaolin clotting time
+fullForm: kaolin clotting time
 source: https://openmd.com/dictionary/abbreviations/k
 ---

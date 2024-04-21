@@ -1,5 +1,5 @@
 ---
 title: KDA
-definition: known drug allergy
+fullForm: known drug allergy
 source: https://openmd.com/dictionary/abbreviations/k
 ---

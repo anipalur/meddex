@@ -1,5 +1,5 @@
 ---
 title: JME
-definition: juvenile myoclonic epilepsy
+fullForm: juvenile myoclonic epilepsy
 source: https://openmd.com/dictionary/abbreviations/j
 ---

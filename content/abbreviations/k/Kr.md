@@ -1,5 +1,5 @@
 ---
 title: Kr
-definition: krypton [element]
+fullForm: krypton [element]
 source: https://openmd.com/dictionary/abbreviations/k
 ---

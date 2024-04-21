@@ -1,5 +1,5 @@
 ---
 title: IC
-definition: interstitial cystitis
+fullForm: interstitial cystitis
 source: https://openmd.com/dictionary/abbreviations/i
 ---

@@ -1,5 +1,5 @@
 ---
 title: IC
-definition: intracardiac
+fullForm: intracardiac
 source: https://openmd.com/dictionary/abbreviations/i
 ---

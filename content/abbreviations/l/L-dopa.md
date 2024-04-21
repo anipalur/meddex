@@ -1,5 +1,5 @@
 ---
 title: L-dopa
-definition: Levodopa
+fullForm: Levodopa
 source: https://openmd.com/dictionary/abbreviations/l
 ---

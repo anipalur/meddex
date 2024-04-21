@@ -1,5 +1,5 @@
 ---
 title: JAMA
-definition: Journal of the American Medical Association
+fullForm: Journal of the American Medical Association
 source: https://openmd.com/dictionary/abbreviations/j
 ---

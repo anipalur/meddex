@@ -1,5 +1,5 @@
 ---
 title: J
-definition: joule
+fullForm: joule
 source: https://openmd.com/dictionary/abbreviations/j
 ---

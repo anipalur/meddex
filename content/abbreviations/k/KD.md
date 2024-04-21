@@ -1,5 +1,5 @@
 ---
 title: KD
-definition: Kawasaki disease
+fullForm: Kawasaki disease
 source: https://openmd.com/dictionary/abbreviations/k
 ---

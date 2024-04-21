@@ -1,5 +1,5 @@
 ---
 title: KSS
-definition: Kearns-Sayre syndrome
+fullForm: Kearns-Sayre syndrome
 source: https://openmd.com/dictionary/abbreviations/k
 ---

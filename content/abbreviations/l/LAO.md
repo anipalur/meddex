@@ -1,5 +1,5 @@
 ---
 title: LAO
-definition: left anterior oblique
+fullForm: left anterior oblique
 source: https://openmd.com/dictionary/abbreviations/l
 ---

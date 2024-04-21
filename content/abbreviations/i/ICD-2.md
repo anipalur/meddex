@@ -1,5 +1,5 @@
 ---
 title: ICD
-definition: Ischemic cardiac disease
+fullForm: Ischemic cardiac disease
 source: https://openmd.com/dictionary/abbreviations/i
 ---

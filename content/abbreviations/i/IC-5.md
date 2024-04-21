@@ -1,5 +1,5 @@
 ---
 title: IC
-definition: immune complex
+fullForm: immune complex
 source: https://openmd.com/dictionary/abbreviations/i
 ---

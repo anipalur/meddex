@@ -1,5 +1,5 @@
 ---
 title: La
-definition: lactic acidosis
+fullForm: lactic acidosis
 source: https://openmd.com/dictionary/abbreviations/l
 ---

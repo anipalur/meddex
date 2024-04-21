@@ -1,5 +1,5 @@
 ---
 title: JPsA
-definition: juvenile psoriatic arthritis
+fullForm: juvenile psoriatic arthritis
 source: https://openmd.com/dictionary/abbreviations/j
 ---

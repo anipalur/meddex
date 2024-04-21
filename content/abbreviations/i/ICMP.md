@@ -1,5 +1,5 @@
 ---
 title: ICMP
-definition: ischemic cardiomyopathy
+fullForm: ischemic cardiomyopathy
 source: https://openmd.com/dictionary/abbreviations/i
 ---

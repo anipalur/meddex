@@ -1,5 +1,5 @@
 ---
 title: ICG
-definition: indocyanine green
+fullForm: indocyanine green
 source: https://openmd.com/dictionary/abbreviations/i
 ---

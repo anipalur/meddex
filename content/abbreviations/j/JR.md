@@ -1,5 +1,5 @@
 ---
 title: JR
-definition: junctional rhythm
+fullForm: junctional rhythm
 source: https://openmd.com/dictionary/abbreviations/j
 ---

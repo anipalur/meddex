@@ -1,5 +1,5 @@
 ---
 title: JDM
-definition: juvenile dermatomyositis
+fullForm: juvenile dermatomyositis
 source: https://openmd.com/dictionary/abbreviations/j
 ---

@@ -1,5 +1,5 @@
 ---
 title: KPC
-definition: Klebsiella Pneumonia Carbapenemase
+fullForm: Klebsiella Pneumonia Carbapenemase
 source: https://openmd.com/dictionary/abbreviations/k
 ---

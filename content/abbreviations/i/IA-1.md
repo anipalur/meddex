@@ -1,5 +1,5 @@
 ---
 title: IA
-definition: intra-articular
+fullForm: intra-articular
 source: https://openmd.com/dictionary/abbreviations/i
 ---

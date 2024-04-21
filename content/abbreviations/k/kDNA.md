@@ -1,5 +1,5 @@
 ---
 title: kDNA
-definition: kinetoplast DNA
+fullForm: kinetoplast DNA
 source: https://openmd.com/dictionary/abbreviations/k
 ---

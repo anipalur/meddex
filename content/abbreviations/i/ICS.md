@@ -1,5 +1,5 @@
 ---
 title: ICS
-definition: intercostal space
+fullForm: intercostal space
 source: https://openmd.com/dictionary/abbreviations/i
 ---

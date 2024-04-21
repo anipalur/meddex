@@ -1,5 +1,5 @@
 ---
 title: ICH
-definition: intracerebral hemorrhage
+fullForm: intracerebral hemorrhage
 source: https://openmd.com/dictionary/abbreviations/i
 ---

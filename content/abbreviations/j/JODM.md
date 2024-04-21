@@ -1,5 +1,5 @@
 ---
 title: JODM
-definition: juvenile onset diabetes mellitus
+fullForm: juvenile onset diabetes mellitus
 source: https://openmd.com/dictionary/abbreviations/j
 ---

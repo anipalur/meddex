@@ -1,5 +1,5 @@
 ---
 title: laryngol
-definition: laryngological
+fullForm: laryngological
 source: https://openmd.com/dictionary/abbreviations/l
 ---

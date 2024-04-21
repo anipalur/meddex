@@ -1,5 +1,5 @@
 ---
 title: IAH
-definition: intra-abdominal hypertension
+fullForm: intra-abdominal hypertension
 source: https://openmd.com/dictionary/abbreviations/i
 ---

@@ -1,5 +1,5 @@
 ---
 title: jt
-definition: joint
+fullForm: joint
 source: https://openmd.com/dictionary/abbreviations/j
 ---

@@ -1,5 +1,5 @@
 ---
 title: JIA
-definition: juvenile idiopathic arthritis
+fullForm: juvenile idiopathic arthritis
 source: https://openmd.com/dictionary/abbreviations/j
 ---

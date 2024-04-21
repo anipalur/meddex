@@ -1,5 +1,5 @@
 ---
 title: JBS
-definition: Johanson-Blizzard syndrome
+fullForm: Johanson-Blizzard syndrome
 source: https://openmd.com/dictionary/abbreviations/j
 ---

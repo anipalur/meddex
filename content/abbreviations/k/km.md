@@ -1,5 +1,5 @@
 ---
 title: km
-definition: kilometer
+fullForm: kilometer
 source: https://openmd.com/dictionary/abbreviations/k
 ---

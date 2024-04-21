@@ -1,5 +1,5 @@
 ---
 title: IABC
-definition: incidental appendectomy
+fullForm: incidental appendectomy
 source: https://openmd.com/dictionary/abbreviations/i
 ---

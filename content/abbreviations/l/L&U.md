@@ -1,5 +1,5 @@
 ---
 title: L&U
-definition: lower and upper
+fullForm: lower and upper
 source: https://openmd.com/dictionary/abbreviations/l
 ---

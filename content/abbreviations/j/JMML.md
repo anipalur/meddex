@@ -1,5 +1,5 @@
 ---
 title: JMML
-definition: juvenile myelomonocytic leukemia
+fullForm: juvenile myelomonocytic leukemia
 source: https://openmd.com/dictionary/abbreviations/j
 ---

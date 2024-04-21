@@ -1,5 +1,5 @@
 ---
 title: LAM
-definition: lymphangioleiomyomatosis
+fullForm: lymphangioleiomyomatosis
 source: https://openmd.com/dictionary/abbreviations/l
 ---

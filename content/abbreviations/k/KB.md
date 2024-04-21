@@ -1,5 +1,5 @@
 ---
 title: KB
-definition: ketone bodies
+fullForm: ketone bodies
 source: https://openmd.com/dictionary/abbreviations/k
 ---

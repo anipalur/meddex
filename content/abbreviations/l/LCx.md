@@ -1,5 +1,5 @@
 ---
 title: LCx
-definition: left circumflex
+fullForm: left circumflex
 source: https://openmd.com/dictionary/abbreviations/l
 ---

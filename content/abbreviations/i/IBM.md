@@ -1,5 +1,5 @@
 ---
 title: IBM
-definition: inclusion body myositis
+fullForm: inclusion body myositis
 source: https://openmd.com/dictionary/abbreviations/i
 ---

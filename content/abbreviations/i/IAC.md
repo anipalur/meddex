@@ -1,5 +1,5 @@
 ---
 title: IAC
-definition: interposed abdominal compression (CPR)
+fullForm: interposed abdominal compression (CPR)
 source: https://openmd.com/dictionary/abbreviations/i
 ---

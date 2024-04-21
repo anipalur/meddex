@@ -1,5 +1,5 @@
 ---
 title: LAC
-definition: lupus anticoagulant
+fullForm: lupus anticoagulant
 source: https://openmd.com/dictionary/abbreviations/l
 ---

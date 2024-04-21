@@ -1,5 +1,5 @@
 ---
 title: KA
-definition: ketoacidosis
+fullForm: ketoacidosis
 source: https://openmd.com/dictionary/abbreviations/k
 ---

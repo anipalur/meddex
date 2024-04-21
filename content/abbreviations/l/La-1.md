@@ -1,5 +1,5 @@
 ---
 title: La
-definition: lanthanum [element]
+fullForm: lanthanum [element]
 source: https://openmd.com/dictionary/abbreviations/l
 ---

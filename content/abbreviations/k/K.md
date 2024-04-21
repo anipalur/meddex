@@ -1,5 +1,5 @@
 ---
 title: K
-definition: potassium [element]
+fullForm: potassium [element]
 source: https://openmd.com/dictionary/abbreviations/k
 ---

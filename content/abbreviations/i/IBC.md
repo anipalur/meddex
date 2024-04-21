@@ -1,5 +1,5 @@
 ---
 title: IBC
-definition: iron binding capacity
+fullForm: iron binding capacity
 source: https://openmd.com/dictionary/abbreviations/i
 ---

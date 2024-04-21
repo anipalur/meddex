@@ -1,5 +1,5 @@
 ---
 title: JVP
-definition: jugular venous pressure
+fullForm: jugular venous pressure
 source: https://openmd.com/dictionary/abbreviations/j
 ---

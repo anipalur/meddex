@@ -1,5 +1,5 @@
 ---
 title: IC
-definition: inspiratory capacity
+fullForm: inspiratory capacity
 source: https://openmd.com/dictionary/abbreviations/i
 ---

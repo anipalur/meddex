@@ -1,5 +1,5 @@
 ---
 title: k/uL
-definition: kilo per microliter
+fullForm: kilo per microliter
 source: https://openmd.com/dictionary/abbreviations/k
 ---

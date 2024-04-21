@@ -1,5 +1,5 @@
 ---
 title: LAE
-definition: left atrial enlargement
+fullForm: left atrial enlargement
 source: https://openmd.com/dictionary/abbreviations/l
 ---

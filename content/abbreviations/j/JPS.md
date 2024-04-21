@@ -1,5 +1,5 @@
 ---
 title: JPS
-definition: juvenile polyposis syndrome
+fullForm: juvenile polyposis syndrome
 source: https://openmd.com/dictionary/abbreviations/j
 ---

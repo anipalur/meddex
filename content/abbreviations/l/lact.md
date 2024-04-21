@@ -1,5 +1,5 @@
 ---
 title: lact
-definition: lactating
+fullForm: lactating
 source: https://openmd.com/dictionary/abbreviations/l
 ---

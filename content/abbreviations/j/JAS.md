@@ -1,5 +1,5 @@
 ---
 title: JAS
-definition: juvenile ankylosing spondylitis
+fullForm: juvenile ankylosing spondylitis
 source: https://openmd.com/dictionary/abbreviations/j
 ---

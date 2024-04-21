@@ -1,5 +1,5 @@
 ---
 title: KED
-definition: Kendrick Extrication Device
+fullForm: Kendrick Extrication Device
 source: https://openmd.com/dictionary/abbreviations/k
 ---

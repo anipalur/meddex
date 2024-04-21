@@ -1,5 +1,5 @@
 ---
 title: LAM
-definition: lactation amenorrhea method
+fullForm: lactation amenorrhea method
 source: https://openmd.com/dictionary/abbreviations/l
 ---

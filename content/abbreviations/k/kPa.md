@@ -1,5 +1,5 @@
 ---
 title: kPa
-definition: kilopascal
+fullForm: kilopascal
 source: https://openmd.com/dictionary/abbreviations/k
 ---

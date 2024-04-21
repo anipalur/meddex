@@ -1,5 +1,5 @@
 ---
 title: L&B
-definition: laryngoscopy and bronchoscopy
+fullForm: laryngoscopy and bronchoscopy
 source: https://openmd.com/dictionary/abbreviations/l
 ---

@@ -1,5 +1,5 @@
 ---
 title: JS
-definition: Joubert syndrome
+fullForm: Joubert syndrome
 source: https://openmd.com/dictionary/abbreviations/j
 ---

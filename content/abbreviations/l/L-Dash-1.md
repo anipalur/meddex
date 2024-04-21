@@ -1,5 +1,5 @@
 ---
 title: L
-definition: length
+fullForm: length
 source: https://openmd.com/dictionary/abbreviations/l
 ---

@@ -1,5 +1,5 @@
 ---
 title: LA
-definition: left atrium
+fullForm: left atrium
 source: https://openmd.com/dictionary/abbreviations/l
 ---

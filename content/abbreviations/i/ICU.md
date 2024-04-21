@@ -1,5 +1,5 @@
 ---
 title: ICU
-definition: intensive care unit
+fullForm: intensive care unit
 source: https://openmd.com/dictionary/abbreviations/i
 ---

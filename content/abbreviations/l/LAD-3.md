@@ -1,5 +1,5 @@
 ---
 title: LAD
-definition: leukocyte adhesion deficiency
+fullForm: leukocyte adhesion deficiency
 source: https://openmd.com/dictionary/abbreviations/l
 ---

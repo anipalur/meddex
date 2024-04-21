@@ -1,5 +1,5 @@
 ---
 title: ICAM
-definition: intercellular adhesion molecule
+fullForm: intercellular adhesion molecule
 source: https://openmd.com/dictionary/abbreviations/i
 ---

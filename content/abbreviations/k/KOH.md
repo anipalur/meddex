@@ -1,5 +1,5 @@
 ---
 title: KOH
-definition: potassium hydroxide
+fullForm: potassium hydroxide
 source: https://openmd.com/dictionary/abbreviations/k
 ---

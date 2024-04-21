@@ -1,5 +1,5 @@
 ---
 title: L
-definition: ligament
+fullForm: ligament
 source: https://openmd.com/dictionary/abbreviations/l
 ---

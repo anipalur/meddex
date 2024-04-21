@@ -1,5 +1,5 @@
 ---
 title: ICT
-definition: insulin coma therapy
+fullForm: insulin coma therapy
 source: https://openmd.com/dictionary/abbreviations/i
 ---
