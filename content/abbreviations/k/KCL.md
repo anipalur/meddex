@@ -1,5 +1,5 @@
 ---
-abbreviation: KCl
+title: KCl
 definition: potassium chloride
 source: https://openmd.com/dictionary/abbreviations/k
 ---

@@ -1,5 +1,5 @@
 ---
-abbreviation: laryngol
+title: laryngol
 definition: laryngological
 source: https://openmd.com/dictionary/abbreviations/l
 ---

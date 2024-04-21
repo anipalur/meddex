@@ -1,5 +1,5 @@
 ---
-abbreviation: incisal
+title: incisal
 definition: incisal
 source: https://openmd.com/dictionary/abbreviations/i
 ---

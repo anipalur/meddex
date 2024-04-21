@@ -1,5 +1,5 @@
 ---
-abbreviation: jnt
+title: jnt
 definition: joint
 source: https://openmd.com/dictionary/abbreviations/j
 ---

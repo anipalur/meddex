@@ -1,5 +1,5 @@
 ---
-abbreviation: LAT
+title: LAT
 definition: left anterolateral thigh
 source: https://openmd.com/dictionary/abbreviations/l
 ---

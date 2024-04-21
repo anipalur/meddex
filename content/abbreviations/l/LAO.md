@@ -1,5 +1,5 @@
 ---
-abbreviation: LAO
+title: LAO
 definition: left anterior oblique
 source: https://openmd.com/dictionary/abbreviations/l
 ---
