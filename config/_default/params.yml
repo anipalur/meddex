@@ -69,6 +69,9 @@ assets:
   theme_color: '#F5F5F5'
   msapplication_TileColor: '#F5F5F5'
 
+images:
+  - /opengraph-image.jpg
+
 profileMode:
   enabled: false
 
